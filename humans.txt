@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    nadav nadavt@check.com
 
 # THANKS
 

@@ -13,4 +13,5 @@ This is a change in documents
 Git.Training. NADAV.
 
 ## REBASE
-	Adding a line for rebasing example.
+	Adding a line for rebasing example. 
+	Than another change.

@@ -15,3 +15,6 @@ Git.Training. NADAV.
 ## REBASE
 	Adding a line for rebasing example. 
 	Than another change.
+	
+## STASHING
+	Adding for stash.

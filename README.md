@@ -11,3 +11,6 @@ This is a change in documents
 ### Copyright
 
 Git.Training. NADAV.
+
+## REBASE
+	Adding a line for rebasing example.
